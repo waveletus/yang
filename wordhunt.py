@@ -4,6 +4,7 @@
 # line or column is selected by probability of left space number
 # The first step is to select line or column and put into the free space (more space more probability)
 # The second step is to try to compact the word letter (share the letter as most as possible)
+# line 1
 #################################
 
 import sys
